@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Countries Project</string>
+    <string name="by_name">By Name</string>
+    <string name="by_populate">By populate</string>
+    <string name="by_area">By Area</string>
+    <string name="popup_message_text">למדינה הזאת אין גבולות!!\nנקווה שזה רק בגלל שהיא אי</string>
+    <string name="popup_button_text">אחלה</string>
+    <string name="name_label">Name:</string>
+    <string name="native_name_label">Native name:</string>
+    <string name="area_label">Area:</string>
+    <string name="population_label">population:</string>
+    <string name="back_to_start">חזור להתחלה</string>
+    <string name="to_many_country_message"> חצינו יותר מדי גבולות
+שנחזור להתחלה או לחזור למדינה האחרונה?</string>
+    <string name="back_to_last_country">למדינה האחרונה</string>
+    <string name="all_countries_title">All countries</string>
+    <string name="borders_title">%1$s\'s borders</string>
+</resources>
